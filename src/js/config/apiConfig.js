@@ -1,5 +1,5 @@
 const config = {
-    url: 'https://openflights.org/'
+    url: 'https://aviasales-api.herokuapp.com'
 };
 
 export default config;
