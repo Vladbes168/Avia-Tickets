@@ -30,6 +30,7 @@
 /* Header styles */
 .header .brand-logo {
   position: static;
+  text-decoration: none;
 }
 
 .header .currency-select input.select-dropdown {
@@ -106,4 +107,14 @@
   background: whitesmoke;
   font-weight: bold;
   font-size: 18px;
+  margin-bottom: 25px;
+}
+.autocomplete:focus {
+  border-bottom: 1px solid #6a1b9a !important;
+  box-shadow: 0 1px 0 0 #6a1b9a !important;
+}
+
+.dropdown-content li>a, .dropdown-content li>span {
+  font-size: 17px !important;
+  color: #6a1b9a !important;
 }

@@ -13,16 +13,16 @@
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
-    "autoprefixer": "^9.6.1",
+    "autoprefixer": "^10.4.19",
     "babel-loader": "^8.0.6",
     "babel-polyfill": "^6.26.0",
     "clean-webpack-plugin": "^4.0.0",
-    "css-loader": "^3.1.0",
+    "css-loader": "^7.1.2",
     "file-loader": "^6.0.0",
     "html-webpack-plugin": "^5.0.0",
-    "mini-css-extract-plugin": "^2.0.0",
-    "postcss": "^7.0.0",
-    "postcss-loader": "^4.0.0",
+    "mini-css-extract-plugin": "^2.9.0",
+    "postcss": "^8.4.40",
+    "postcss-loader": "^8.1.1",
     "precss": "^4.0.0",
     "style-loader": "^3.0.0",
     "webpack": "^5.93.0",
@@ -30,8 +30,8 @@
     "webpack-dev-server": "^5.0.4"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.7.2",
     "date-fns": "^2.2.1",
-    "materialize-css": "^1.0.0-rc.2"
+    "materialize-css": "^1.0.0"
   }
 }
